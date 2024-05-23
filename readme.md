@@ -8,7 +8,7 @@
 ### Workbook and Worksheets
 
 ## Websites
-- [Mindkraft](https://mindkraft.me)
+- [Mindkraft](https://mindkraft.me) -- Stuart Jay Raj's website
 
 ## Instructors
 
