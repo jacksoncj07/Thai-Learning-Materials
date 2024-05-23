@@ -8,6 +8,9 @@
 
 ### Workbook and Worksheets
 
+## Misc. Charts
+[Nathan's Thai Tone Chart](Files/Thai Tone Chart.pdf)
+
 ## Websites
 - [Mindkraft](https://mindkraft.me) -- Stuart Jay Raj's website
 
