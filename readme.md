@@ -11,7 +11,7 @@
 ## Misc. Charts
 - [Nathan's Thai Tone Chart](Files/Thai%20Tone%20Chart.pdf)
 - [Thai Consonant Classes](Files/Thai%20Consonant%20Classes.jpeg)
-- [Analysis of Thai letter frequency](ThaiStat.pdf)
+- [Analysis of Thai letter frequency](Files/ThaiStat.pdf)
 
 ## Websites
 - [Mindkraft](https://mindkraft.me) -- Stuart Jay Raj's website
